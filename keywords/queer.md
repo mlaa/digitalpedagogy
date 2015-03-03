@@ -18,7 +18,7 @@ type: book
 ### Edmond Y. Chang
 Drew University | Department of English | [Website](http://www.edmondchang.com/)
 
-<div class="invitebox">This blue box will contain text, currently being copyedited, that will explain that the following keyword is in an unedited stage, presented here for open peer review.</div> 
+<div class="invite-box">This blue box will contain text, currently being copyedited, that will explain that the following keyword is in an unedited stage, presented here for open peer review.</div> 
 
 ## CURATORIAL STATEMENT 
 
