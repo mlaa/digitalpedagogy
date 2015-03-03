@@ -91,7 +91,7 @@ This blog post provides a provocative consideration of the relationship between 
 ### Guide to Teaching Visual Rhetoric
 ![Screenshot: Viz entry on Guide to Teaching Visual Rhetoric ](images/rhetoric-viz.png)
 
-* http://viz.cwrl.utexas.edu/node/411 
+* https://web.archive.org/web/20111013163034/http://viz.cwrl.utexas.edu/node/411
 * Author: Tim Turner
 * _viz. Visual Rhetoric - Visual Culture - Pedagogy_
 
@@ -108,8 +108,7 @@ Drawing on the work of Robin Williams and Anne Wysocki, among others, DeVoss's s
 
 ### Assignment: Narrative Title Sequence
 ![Screenshot: Craig Stroupe's Visual Rhetoric Assignment](images/rhetoric-stroupe.png)
-
-* http://www.d.umn.edu/~cstroupe/f11/4260/narrative\_title/narrative\_title\_sequence.html 
+* http://www.d.umn.edu/~cstroupe/f11/4260/narrative_title/narrative_title_sequence.html
 * Craig Stroupe
 * Visual Rhetoric and Culture, University of Minnesota at Duluth
 
