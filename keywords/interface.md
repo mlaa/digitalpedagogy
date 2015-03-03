@@ -18,7 +18,11 @@ type: book
 ### Kathi Inman Berens
 University of Southern California | Annenberg School of Communication | [Website](http://kathiiberens.com)
 
-<div class="invite-box">This blue box will contain text, currently being copyedited, that will explain that the following keyword is in an unedited stage, presented here for open peer review.</div> 
+<div class="invite-box">
+
+This blue box will contain text, currently being copyedited, that will explain that the following keyword is in an unedited stage, presented here for open peer review.
+
+</div> 
 
 ## CURATORIAL STATEMENT 
 
