@@ -18,15 +18,7 @@ type: book
 ### Edmond Y. Chang
 Drew University | Department of English | [Website](http://www.edmondchang.com/)
 
----
-
-##### Publication Status:
-* unreviewed draft
-* **draft version undergoing editorial review**
-* draft version undergoing peer-to-peer review
-* published 
-
---- 	
+<div class="invitebox">This blue box will contain text, currently being copyedited, that will explain that the following keyword is in an unedited stage, presented here for open peer review.</div> 
 
 ## CURATORIAL STATEMENT 
 

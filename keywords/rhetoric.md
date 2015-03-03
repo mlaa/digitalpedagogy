@@ -18,15 +18,7 @@ type: book
 ## Douglas Eyman
 George Mason University 
 
----
-
-##### Publication Status:
-* unreviewed draft
-* **draft version undergoing editorial review**
-* draft version undergoing peer-to-peer review
-* published 
-
---- 
+<div class="invitebox">This blue box will contain text, currently being copyedited, that will explain that the following keyword is in an unedited stage, presented here for open peer review.</div> 
 
 ##Rhetoric as Digital Pedagogy/Digital Pedagogy as Rhetoric
 
