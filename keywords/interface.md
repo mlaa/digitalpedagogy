@@ -40,6 +40,7 @@ Does it matter if a classroom is a little rectangle in a building or a little re
 
 ### Remediated Shakespeare Sonnets 
 ![screenshot](images/interface-Burgess-Sonnet.png)
+
 * Source URL: http://helenburgess.com/395sonnets/
 * Copy of Artifact: [files/interface-Burgess-Sonnet_1.pdf](files/interface-Burgess-Sonnet_1.pdf), [files/interface-Burgess-Sonnet_2.pdf](files/interface-Burgess-Sonnet_2.pdf) , [files/interface-Burgess-Sonnet_3.pdf](files/interface-Burgess-Sonnet_3.pdf)
 * Creator: Helen Burgess (North Carolina State University)
@@ -48,6 +49,7 @@ Does it matter if a classroom is a little rectangle in a building or a little re
 
 ### "Simulating the Scriptorium"
 ![screenshot](images/interface-Cordell-Scrivening.png)
+
 * Source URL: http://f14tot.ryancordell.org/2014/09/16/lab-3-simulating-the-scriptorium/
 * Copy of Artifact: forthcoming
 * Creator: Ryan Cordell (Northeastern University)
@@ -56,14 +58,16 @@ Does it matter if a classroom is a little rectangle in a building or a little re
 
 ### Close Reading Exercise via Tumblr 
 ![screenshot](images/interface-HoL-Douglass-Pokornowski.png)
+
 * Source URL: http://english10introductiontolit.tumblr.com
-* Copy of Artifact: [files/interface-Douglass-Pok-ENGL 10-HoL-Remix.pdf](files/interface-Douglass-Pok-ENGL 10-HoL-Remix.pdf)
+* Copy of Artifact: [files/interface-Douglass-Pok-ENGL-10-HoL-Remix.pdf](files/interface-Douglass-Pok-ENGL-10-HoL-Remix.pdf)
 * Creators: Jeremy Douglass (University of California Santa Barbara) and Steven Pokornowski (University of California Santa Barbara)
 
 It's ambitious to assign <em>House of Leaves</em> in an introductory literature class.  Desultory, evasive and iconic, <em>HoL</em>  will frustrate almost any reader who aims to read this text closely as Humanists are trained to do.  Jeremy Douglass and Steven Pokornowski create a two-part assignment interface.  The prompt procedurally guides students through making a remix of one page--and only one page--in <em> HoL</em>.  Making their collages, students can work with digital image tools or work with the other "digital," their fingers, making collage from arts and craft supplies.  Handmade remixes are photographed; all remixes are tagged and uploaded to the class's Tumblr site which itself remixes the individual pages into a fragmentary collective.  Their heterogeneity perfectly complements the source text's unfinalizability.   
 
 ### Distant Reading Exercise
 ![screenshot](images/interface-Wordle-fr-open-source-Fyfe.jpg)
+
 * Source URL: http://ryancordell.org/personal/grad-proseminar-guest-talk-not-reading/
 * Source URL: open-access pre-print of the original article http://diginole.lib.fsu.edu/eng_faculty_publications/2/
 * Copy of Artifact: forthcoming
@@ -73,6 +77,7 @@ Paul Fyfe's 4-page field note about teaching senior undergraduate English majors
 
 ### Collaborative Undergraduate Research Project
 ![screenshot](images/interface-Harris-Collab-Project.jpg)
+
 * Source URL: http://triproftri.wordpress.com/2012/12/03/collaborative-project-on-19th-century-materials-assignment/#more-1191
 * Copy of Artifact: forthcoming
 * Creator: Katherine D. Harris (San Jose State University)
@@ -81,6 +86,7 @@ Lower-division literature majors are new to devising substantial research projec
 
 ### Historically-Based, Geographically Situated Role Playing Game 
 ![screenshot](images/interface-Hergenrader-Steampunk-Rochester-map.png)
+
 * Source URL: http://steampunkrochester.wikispaces.com/Steampunk+Rochester
 * Copy of Artifact: forthcoming
 * Creator: Trent Hergenrader (Rochester Institute of Technology)
@@ -99,6 +105,7 @@ Many people have heard of <em>Map of Early Modern London</em>, now in its fiftee
 
 ### Giving Voice to Spanish-Language Life Histories
 ![screenshot](images/interface-Mongar-Esta-Vida.png)
+
 * Source URL: http://estavidaboricua.com/
 * Copy of Artifact: forthcoming
 * Creator: Sonja S. Mongar (Universidad de Puerto Rico de Mayagüez)
@@ -107,6 +114,7 @@ Many people have heard of <em>Map of Early Modern London</em>, now in its fiftee
 
 ### Participatory, Short-Form Critical Essay Writing 
 ![screenshot](images/interface-Twitter-bird-Stommel.jpg)
+
 * Source URL: http://www.hybridpedagogy.com/journal/the-twitter-essay/
 * Copy of Artifact: forthcoming
 * Creator: Jesse Stommel (University of Wisconsin-Madison)
@@ -115,6 +123,7 @@ In the "Twitter Essay," Jesse Stommel exhorts students to convert their expertis
 
 ### Mobile Text-and-Image Collaborative Story 
 ![screenshot](images/interface-Wittig-1wknotech.png)
+
 * Source URL: http://1wknotech.tumblr.com/
 * Copy of Artifact: forthcoming 
 * Creator: Rob Wittig (University of Minnesota Duluth Department of Art and Design); Mark C. Marino (University of Southern California)
@@ -129,6 +138,7 @@ https://www.upress.umn.edu/book-division/books/reading-writing-interfaces
 Jason Farman, "Hands On Explorations for Mobile Storytelling,"  *The Mobile Story: Narrative Practices With Locative Technologies.*  http://themobilestory.com/explorations/
 
 Alan Liu, "DH Tools Wiki," http://dhresourcesforprojectbuilding.pbworks.com/w/page/69244319/Digital%20Humanities%20Tools					
+
 Miriam Posner, "How Did They Make That? The Video!" http://miriamposner.com/blog/how-did-they-make-that-the-video/	
 
 Howard Rheingold, "The Peeragogy Handbook," http://peeragogy.org/
@@ -144,7 +154,7 @@ Cordell, Ryan.  "Grad ProSeminar Guest Talk: Not Reading."  http://ryancordell.o
 
 Cramer, Florian and Matthew Fuller.  "Interface."  *Software Studies: a Lexicon*, ed. Matthew Fuller.  Cambridge: M.I.T. Press.  2008.
 
-Douglass, Jeremy and Steven Pokornowski.  "English 10 Introduction to Lit: *House of Leaves* Remix Assignment.  http://english10introductiontolit.tumblr.com/.  Web.  Accessed 15 November 2014.
+Douglass, Jeremy and Steven Pokornowski.  "English 10 Introduction to Lit: *House of Leaves* Remix Assignment."  http://english10introductiontolit.tumblr.com/.  Web.  Accessed 15 November 2014.
 
 Emerson, Lori. *Reading Writing Interfaces: From the Digital to the Bookbound.*  Minneapolis: University of Minnesota Press.  2014.  Print.  
 
@@ -171,7 +181,7 @@ Posner, Miriam.  "How Did They Make That? The Video!"  http://miriamposner.com/b
 
 Rheingold, Howard.  *The Peeragogy Handbook.* http://peeragogy.org/  Web. Accessed 15 November 2014.
 
-Stommel, Jesse.  ""12 Steps for Creating a Digital Assignment or Hybrid Class," http://www.jessestommel.com/blog/files/12-step-digital-assignment-hybrid-class.html
+Stommel, Jesse.  "12 Steps for Creating a Digital Assignment or Hybrid Class," http://www.jessestommel.com/blog/files/12-step-digital-assignment-hybrid-class.html
 
 ———.  "The Twitter Essay."  http://www.hybridpedagogy.com/journal/the-twitter-essay/  Web.  Accessed 15 November 2014.			
 
