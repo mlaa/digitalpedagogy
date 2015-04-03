@@ -20,7 +20,7 @@ Drew University | Department of English | [Website](http://www.edmondchang.com/)
 
 <div class="invite-box">
 
-This blue box will contain text, currently being copyedited, that will explain that the following keyword is in an unedited stage, presented here for open peer review.
+This draft essay has been chosen by the editors for open review. You are invited to read this draft and comment on it. The editors may then ask the authors to revise their work in the light of your comments, with the goal of eventually including the revised essay in the anthology. 
 
 </div> 
 
