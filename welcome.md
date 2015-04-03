@@ -4,9 +4,9 @@ Published in a publicly available format by the Modern Language Association, _Di
 
 ## GENERAL EDITORS
 
-Rebecca Frost Davis, Saint Edward's University ([rebeccad@stedwards.edu](rebeccad@stedwards.edu))
+Rebecca Frost Davis, Saint Edward's University ([rebeccad@stedwards.edu](mailto:rebeccad@stedwards.edu))
 
-Matthew K. Gold, City Tech and Graduate Center, City University of New York ([mgold@gc.cuny.edu](mgold@gc.cuny.edu))
+Matthew K. Gold, City Tech and Graduate Center, City University of New York ([mgold@gc.cuny.edu](mailto:mgold@gc.cuny.edu))
 
 Katherine D. Harris, San José State University ([dr.katherine.harris@gmail.com](mailto:dr.katherine.harris@gmail.com))
 
