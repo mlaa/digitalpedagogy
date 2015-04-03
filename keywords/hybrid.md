@@ -21,7 +21,7 @@ Assistant Professor, University of Wisconsin-Madison, [Website](http://www.jesse
 
 <div class="invite-box">
 
-This draft essay has been chosen by the editors for open review. You are invited to read this draft and comment on it. The editors may then ask the authors to revise their work in the light of your comments, with the goal of eventually including the revised essay in the anthology. 
+The first set of keywords from the anthology is now available for open peer review. The editors invite you to participate in open review by commenting on the overall quality and persuasiveness of the curated keywords. You may wish to first read the [description](/description) of the anthology and the [list of key words](/keywords).
 
 </div> 
 
