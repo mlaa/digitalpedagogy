@@ -9,4 +9,4 @@ Published in a publicly available format by the Modern Language Association, _Di
  * Katherine D. Harris, San José State University ([dr.katherine.harris@gmail.com](mailto:dr.katherine.harris@gmail.com))
  * Jentery Sayers, University of Victoria ([jentery@uvic.ca](mailto:jentery@uvic.ca))
 
-The source code for this work may be found [on the project's GitHub repository](https://github.com/curateteaching/digitalpedagogy). 
+The source code for this work may be found on [the project's GitHub repository](https://github.com/curateteaching/digitalpedagogy). 
