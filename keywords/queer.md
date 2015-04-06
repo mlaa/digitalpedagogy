@@ -51,92 +51,82 @@ possibility for another world. —Jose Esteban Munoz, *Cruising Utopia*
 
 ## CURATED ARTIFACTS
 
-### "Best Practices: Creating an LGBT-inclusive School Climate"
+### ["Best Practices: Creating an LGBT-inclusive School Climate"](http://www.tolerance.org/lgbt-best-practices)
 ![screenshot](images/screenshot06_teachingtolerance.jpg)
 
-* Source URL: http://www.tolerance.org/lgbt-best-practices
 * Copy of Artifact: forthcoming
 * Creator: [Southern Law Poverty Center](http://www.splcenter.org/)
 
 Part of the Teaching Tolerance project, this website offers a list of resources and best practices for teachers, administartors, and schools to give them "the knowledge they need to create a climate in which their most vulnerable students feel safe and valued . . . to build an educational environment that is truly welcoming to all students." Though the resource is aimed at middle and secondary schools, the "LGBT 101"–style material and inclusive policies are a necessary starting point in developing vocabularies, course rationales, teaching philosophies, and ways to think about the institution.  
 
-### "Digital Pedagogy: Twitter, Close Reading, and Learning/Teaching in Public"
+### ["Digital Pedagogy: Twitter, Close Reading, and Learning/Teaching in Public"](http://litilluminations.wordpress.com/2014/01/31/digital-pedagogy-close-reading-and-learning-in-public/)
 ![screenshot](images/screenshot03_twitter.jpg)
 
-* Source URL: http://litilluminations.wordpress.com/2014/01/31/digital-pedagogy-close-reading-and-learning-in-public/
 * Copy of Artifact: forthcoming
 * Creator: [Petra Dierkes-Thrun](https://dlcl.stanford.edu/people/petra-dierkes-thrun?q=people/petra-dierkes-thrun) (Stanford University)
 
 Dierkes-Thrun's website offers a quick overview of the variety of different digital pedagogy exercises and assignments she has developed for her literature seminars and feminist, gender, and sexuality classes at Stanford, including "Twitter for Crowdsourcing and Role-Play Exercises," close reading and collaborative interpretation exercises, and other teaching and learning tools. This resource serves as a jumping off point for adapting Dierkes-Thrun's assignments or for generating new ones. What is most useful is the inclusion of reflection on the assignments by both the instructor and the students. For example, in her write-up of the “Twitter Role-Play” assignment for *The Picture of Dorian Gray*, she writes, “Like so many of my traditional humanities teacher colleagues not originally trained in digital humanities, I have been a late convert to Twitter, but now I use it regularly and happily for professional and intellectual purposes . . . New ideas are sparked via these interactions; wise and thoughtful observations, hilarious and clever commentary happen here, engaging brains and hearts.  Most often, one leaves with a sense of having learned something worth contemplating, and being thankful for the open format. I knew Twitter was right for this new kind of exercise.”
 
-### *Digital Storytelling Project*
+### [*Digital Storytelling Project*](http://queeringthemuseum.org/current-projects/digital-storytelling-project/)
 ![screenshot](images/screenshot08_queeringthemuseum.jpg)
 
-* Source URL: http://queeringthemuseum.org/current-projects/digital-storytelling-project/
 * Copy of Artifact: forthcoming
 * Creator: [Queering the Museum](http://queeringthemuseum.org/)
 
 The *Digital Storytelling Project* is a Seattle-based project suppored by Queering the Museum, a group dedicated to increasing LGBTQ representation in museums. The storytelling project invites LGBTQ individuals from the Puget Sound region to reflect on their lives, to use their own narration and photos to create a short video. The project allows people to tell their own stories, to decide how they want to be represented, and to share these stories in a queer-themed exhibit at The Museuem of History and Industry in Seattle.
 
-### ENGL 1102: "Queer New Media"
+### [ENGL 1102: "Queer New Media"](http://queergatech.tumblr.com/)
 ![screenshot](images/screenshot02_queerdigitalmedia.jpg)
 
-* Source URL: http://queergatech.tumblr.com/
 * Copy of Artifact: forthcoming
 * Creator: [Marty Fink](http://lmc.gatech.edu/people/brittain.php) (Georgia Tech)
 
 Multimodal, intersectional, and colorful, Fink's introductory course outlines ways to think about and create queer narratives and cultural productions. The course website provides examples of various student responses and projects, including student-made digital games. The strengths of this resource are in its eclecticism, its use of both popular culture and more traditional literature, and the examples of digital work created by students.  Fink’s course asks students to think about and translate James Baldwin’s *Giovanni’s Room* into digital presentations and provocations.
 
-### "iLogs"
+### ["iLogs"](http://www.edmondchang.com/466/assignments.html)
 ![screenshot](images/screenshot04_ilogs.jpg)
 
-* Source URL: http://www.edmondchang.com/466/assignments.html
 * Copy of Artifact: forthcoming
 * Creator: [Edmond Y. Chang](http://www.edmondchang.com/) (Drew University)
 
 These brief assignments ask students to keep and maintain a weekly "identity log" or "iLog," recording, detailing, and thinking about their own identities and identifications. These "iLogs" will function as a kind of identity workbook, an analytical and metacognitive journal, connecting students' observations and experiences to the texts, theories, and ideas of an Introduction to LGBT Studies class. Prompts include thinking about identities, sexuality, queer space, and popular culture, which are shared with the class via the class's Tumblr website. The overall course syllabus and reading list are included as well.  Though the “iLogs” are not formally graded (except on timeliness and completion), they generate a portfolio, an archive of ideas, objects, and occasions for discussion, study, and reflection.  Once collected together, students can see the breadth and depth of intellectual, critical, and even affective work they and their classmates have done over the course of a term.  See for example [iLog #4: "Queer Bodies"](http://engl466a.tumblr.com/tagged/iLog-4).
 
-### *Lim*
+### [*Lim*](http://mkopas.net/files/Lim/)
 ![screenshot](images/screenshot09_lim.jpg)
 
-* Source URL: http://mkopas.net/files/Lim/
 * Copy of Artifact: forthcoming
 * Creator: [Merritt Kopas](http://mkopas.net/)
 
 On the surface, *Lim* is a very simple game where the play moves a small, flashing, multi-hued square through a maze populated by other squares. At first, the other squares do not bother the player's avatar as long as they blend in, changing their color to match those around them. But, as the player progresses, the other squares begin to attack the player's square. *Lim* is about many things: identity, difference, belonging, passing, inclusion, exclusion, community, and so on. The game is brief (less than ten minutes to play) and accessible via common web browsers, which makes it ideal for low- and high-tech classrooms. *Lim* also provides much needed opportunities to talk about how game content and narrative intersect with and are informed by game mechanics and algorithms, particularly in the moments of play when the game seems to glitch or have unintended results.  Finally, *Lim* is demonstrative of not only queer issues and concerns but also the success of queer, independent game-makers such as Kopas.    
 
-### "Queer Feminist Media Practice"
+### ["Queer Feminist Media Practice"](http://adanewmedia.org/2014/07/issue5-fotopoulouoriordan/](http://adanewmedia.org/2014/07/issue5-fotopoulouoriordan/))
 ![screenshot](images/screenshot10_ada.jpg)
 
-* Source URL: [http://adanewmedia.org/2014/07/issue5-fotopoulouoriordan/](http://adanewmedia.org/2014/07/issue5-fotopoulouoriordan/)
 * Copy of Artifact: forthcoming
 * Creator: [Aristea Fotopoulou](http://www.sussex.ac.uk/profiles/206365) and [Kate O'Riordan](http://www.sussex.ac.uk/profiles/30746) (editors, [*Ada: A Journal of Gender, New Media, and Technology*](http://adanewmedia.org/))
 
 This special issue of *Ada* hopes, in the words of the editors, to explore "what the concept of praxis could offer in our thinking about the intersections of gender, digital media, and technology. Praxis in both Marxist and in Arendtian political thought brings together theory, philosophy and political action into the realm of the everyday" (n. pag.). The special issue also highlights the ways that digital projects like the journal *Ada* can be open source, committed to an "transparent, productive, and rigorous peer review process," and created, designed, published, and distributed collectively online. 
 
-### *Queer Geek Theory*: Classes
+### [*Queer Geek Theory*: Classes](http://www.queergeektheory.org/teaching_main/classes/)
 ![screenshot](images/screenshot05_queergeektheory.jpg)
 
-* Source URL: http://www.queergeektheory.org/teaching_main/classes/
 * Copy of Artifact: forthcoming
 * Creator: [Alexis Lothian](http://www.queergeektheory.org/) (University of Maryland)
 
 This resource offers a range of courses and reflections on teaching queer, LGBTQ, and women's studies material. Included in Lothian's descriptions are specific mentions of incorporating digital humanities and digital technologies into the classes.  Lothian encourages the sharing of course rationales, assignments, and integrations of digital tools, saying, "I definitely consider all of the syllabi linked above to be open source documents from which other teachers should borrow as they see fit."  Lothian outlines her use of blogging platforms, WordPress plugins, Twitter, as well as more traditional classroom
 technologies.  She says her course try to satisfy “learning objectives through engaging students with the practice and theory of digital humanities, new media, and technoculture studies, as well as with literature and film.  I use public websites, run on WordPress, to organize the classes and open them up beyond the walled spaces of learning management software. Students must (with guidance) think through the consequences of online public speech as part of their participation in the classes.”
 
-### "Refracting the Digital Humanities"
+### ["Refracting the Digital Humanities"](http://thejarahtree.com/2014/07/05/refracting-digital-humanities/)
 ![screenshot](images/screenshot01_refracting.jpg)
 
-* Source URL: http://thejarahtree.com/2014/07/05/refracting-digital-humanities/
 * Copy of Artifact: forthcoming
 * Creator: [Jarah Moesch](http://thejarahtree.com/) (University of Maryland, College Park)
 
 Self-described as "an experimental artist-scholar who uses the queer sick body to challenge the limits of the phenomenological," Moesch's course and syllabus offer an intersectional way to examine the ways "the methods and tools used and produced by Digital Humanists function as organizing principles that frame how race, gender, sexuality, and ability." What is exemplary about this resource is the fact that Moesch's syllabus solidly combines theory and practice, exploring and doing. As the course description reads, "By pairing hands-on learning/making with Critical Race Theory, Queer, and Gender Theories, we will interrogate the structures of the tools themselves while creating our own collaborative practices and methods for ‘doing’ (refracting) DH differently."  In particular, Moesch’s course attends to a range of DH tools and methods including audio, computer code, and mapping.  
 
-### *#TransformDH*
+### [*#TransformDH*](http://transformdh.org/)
 ![screenshot](images/screenshot07_transformdh.jpg)
 
-* Source URL: http://transformdh.org/
 * Copy of Artifact: forthcoming 
 * Creator: [#TransformDH](http://transformdh.org/) (Multiple Contributors) 
 

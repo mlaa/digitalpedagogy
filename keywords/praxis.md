@@ -17,7 +17,7 @@ publisher: Modern Language Association
 type: book
 ---
 
-# PRAXIS  (Draft)
+# PRAXIS (Draft)
 
 ### Bethany Nowviskie, Jeremy Boggs, and J. K. Purdom Lindblad 
 University of Virginia | [Scholars' Lab](http://scholarslab.org/)
@@ -57,91 +57,81 @@ Finally, we felt it important to select resources that demonstrate the interconn
 
 ## CURATED ARTIFACTS
 
-### “Bibliocircuitry and the Design of the Alien Everyday”
+### [“Bibliocircuitry and the Design of the Alien Everyday”](http://scholarworks.iu.edu/journals/index.php/textual/article/view/5051)
 ![screenshot](images/bibliocircuitry.jpg)
 
-* Source URL: [http://scholarworks.iu.edu/journals/index.php/textual/article/view/5051](http://scholarworks.iu.edu/journals/index.php/textual/article/view/5051)
 * Copy of Artifact: [files/bibliocircuitry.pdf](files/bibliocircuitry.pdf)
 * Creators: Charity Hancock, Clifford Hichar, Carlea Holl-Jensen, [Kari Kraus](http://www.karikraus.com/), Cameron Mozafari, and Kathryn Skutlin (University of Maryland)
 
 "Bibliocircuitry and the Design of the Alien Everyday" details student exploration of the concept of reflective design through projects that investigate the book as interface. This activity perfectly highlights the way that exposure to and emphasis on process leads to unforeseen insight. These student authors also emphasize that digital work requires consideration of hardware and physical/tactile design. Instructors inspired by this article might select a particular type of object and ask students to devise ways to alter or enhance users' interaction with it. Students would demonstrate learning not only through their work in designing/redesigning objects, but also through oral or written presentations of them (much as the student authors of this journal article have done).
 
-### "Doing Feminist Theory Through Digital Video"
+### ["Doing Feminist Theory Through Digital Video"](http://adanewmedia.org/2014/07/issue5-hurst/)
 ![screen shot](images/feminist-theory.jpg)
 
-* Source URL: [http://adanewmedia.org/2014/07/issue5-hurst/](http://adanewmedia.org/2014/07/issue5-hurst/)
 * Copy of Artifact: forthcoming
 * Creator: [Rachel Alpha Johnston Hurst](http://www.rachelhurst.ca/Dr._Rachel_Alpha_Johnston_Hurst/Welcome%21.html) (St. Francis Xavier University)
 
 "How to 'Do' Feminist Theory Through Digital Video" is a reflective essay detailing an undergraduate assignment (titled, "Doing Feminist Theory Through Digital Video") and the literature informing the development of the assignment. Noticing her students were struggling to connect rich theoretical discussions within the classroom to "real life," Hurst offers a pathway for specific theoretical considerations (like feminism) to shape and be shaped by the application of praxis. Hurst applies Paulo Freire's definition of praxis ("reflection and action upon the world in order to change it") with the goal of fostering sustained deep reflection, both of the theoretical foundations of her course as well as on the student's emerging scholarly voices (Freire, [1970] 2000: 51). A semester-long, service-learning project is difficult to integrate into a content-based course. Hurst's article outlines strategies for nurturing deep learning through reflection and praxis. Reflecting on her process as well as implementation, Hurst points to methods for demystifying knowledge creation through iterative, collaborative work.
 
-### “Extraordinary Materials”
+### [“Extraordinary Materials”](http://dada.cca.edu/\~drosner/materials/syllabus.html)
 ![screen shot](images/extraordinary-materials.jpg)
 
-* Source URL: [http://dada.cca.edu/\~drosner/materials/syllabus.html](http://dada.cca.edu/\~drosner/materials/syllabus.html)
 * Copy of Artifact: forthcoming
 * Creator: [Daniela K. Rosner](http://danielarosner.com) (University of Washington)
 
 "(Extra)ordinary Materials" is a Human-Centered Design and Engineering course focusing on "thinking and experimenting with materials that have extraordinary properties around ordinary practices as an entry point for identifying new affordances in form-giving work." With a detailed syllabus and a blend of intriguing readings, hands-on experiments, and student participation, "(Extra)ordinary Materials" exemplifies praxis through deep investigation of material culture and objects alongside exploration of the concepts of "mutability, reproduction, age and belonging." Readings are paired with hands-on, individual and group investigations and reflective reports. Rosner includes thoughtful learning outcomes along with explicit pairings of experiential work and theoretical readings to best explore a range of materials and properties.
 
-### “How Did They Make That?”
+### [“How Did They Make That?”](http://miriamposner.com/blog/how-did-they-make-that/)
 ![screenshot](images/how-did-they-make-that.png)
 
-* Source URL: [http://miriamposner.com/blog/how-did-they-make-that/](http://miriamposner.com/blog/how-did-they-make-that/)
 * Copy of Artifact: forthcoming
 * Creator: [Miriam Posner](http://miriamposner.com/) (University of California, Los Angeles)
 
 Miriam Posner offers a modest gallery of various digital projects, virtually disassembling them according to the tools and techniques used in their production. Her goal is to show how each is made, so that others might feel empowered to build similar projects or extend the ones highlighted. The site is a helpful starting point for students beginning their own digital projects. Have students explore the site, then visit each example project, to see how the list of parts and techniques correspond to and are manifested in specific results. Get a feel for the affordances of different types of digital projects. In addition to the post, Posner also offers a [video version](http://miriamposner.com/blog/how-did-they-make-that-the-video/) of "How Did They Make That."
 
-### "The Kits for Cultural History at HASTAC 2014"
+### ["The Kits for Cultural History at HASTAC 2014"](http://maker.uvic.ca/lima/)
 ![screenshot](images/kits-for-cultural-history.png)
 
-* Source URL: [http://maker.uvic.ca/lima/](http://maker.uvic.ca/lima/)
 * Copy of Artifact: forthcoming
 * Creator: [Nina Belojevic](http://maker.uvic.ca/author/nbelojevic/) (University of Victoria)
 
 Nina Belojevic provides an introduction and rationale for the *Kits for Cultural History* project at the University of Victoria's Maker Lab in the Humanities. These kits help humanists explore questions and topics related to history and culture. They are not intended to be simple instruction manuals, with step-by-step instructions to complete, but rather serve as examples, encouraging inquiry, modification, and reflection. Kits include: [*Electric Jewels*](http://maker.uvic.ca/kit1/), which explores 19th-century wearables, and [*Tennis for Two*](http://maker.uvic.ca/tennis/), which looks at the first video game. The kits suggest that praxis goes deeper than simple problem solving. One obvious way to integrate these kits into the classroom is to attempt a group project recreating or extending one. From there, students could be asked to create their own kits, and to write rationales, documenting the process through which they researched and designed them.
 
-### “Lying about the Past”
+### [“Lying about the Past”](http://chnm.gmu.edu/history/faculty/kelly/blogs/h389/f08syl.pdf)
 ![screenshot](images/lying-about-the-past.png)
 
-* Source URL: [http://chnm.gmu.edu/history/faculty/kelly/blogs/h389/f08syl.pdf](http://chnm.gmu.edu/history/faculty/kelly/blogs/h389/f08syl.pdf)
 * Copy of Artifact: [files/lying-about-the-past.pdf](files/lying-about-the-past.pdf)
 * Creator: [T. Mills Kelly](http://edwired.org/) (George Mason University)
 
 Mills Kelly has taught several iterations of an undergraduate history course entitled "Lying about the Past." The course conveys historical research methods and ethics by asking students to examine and debunk historical hoaxes. For their final projects, students create a convincing hoax of their own. [The results](http://www.theatlantic.com/technology/archive/2012/05/how-the-professor-who-fooled-wikipedia-got-caught-by-reddit/257134/) have been explosive. Alongside the emphasis on understanding history by re-shaping it, we find this an excellent example of a praxis-based syllabus, in which Kelly makes it clear that he considers his students as collaborators, and depends on their active engagement to shape the course.
 
-### The Scholars' Lab Praxis Program and Praxis Network
+### [The Scholars' Lab Praxis Program and Praxis Network](http://praxis-network.org/)
 ![screenshot](images/praxisnetwork.jpg)
 
-* Source URL: [http://praxis-network.org/](http://praxis-network.org/)
 * Copy of Artifact: forthcoming
 * Creator: [Scholars' Lab](http://scholarslab.org/) (University of Virigina)
 
 The [Praxis Program](http://praxis.scholarslab.org) is an extracurricular attempt to reimagine graduate training in the humanities for the demands of the digital age. Each year, the Scholars' Lab brings together six graduate students from across the humanities and social sciences to theorize, design, build, and [reflect on the process](http://connect.clir.org/blogs/bethany-nowviskie/2014/11/20/charter-ing-a-path) of constructing a digital tool.  Praxis Fellows work alongside the Scholars' Lab staff throughout the cycle of creating and launching a digital project. The Praxis Network was inspired by the Scholars' Lab [Praxis Program](http://praxis.scholarslab.org) and by Michigan State University's [Cultural Heritage Informatics (CHI) Initiative](http://chi.anthropology.msu.edu/) and [CHI Fieldschool](http://chi.anthropology.msu.edu/fieldschool/). Both programs exemplify differing approaches to collaborative, humanities-based digital methods training. The Network gathers together 6 additional international models to enable institutions seeking to develop similar efforts to compare missions, structures, research foci, funding models, and strategic directions of successful sister programs.
 
-### “Victorian Literature + Victorian Informatics”
+### [“Victorian Literature + Victorian Informatics”](http://rachelsagnerbuurma.org/uncategorized/vic_info-draft-syllabus/)
 ![screenshot](images/victorian-literature.jpg)
 
-* Source URL: [http://rachelsagnerbuurma.org/uncategorized/vic_info-draft-syllabus/](http://rachelsagnerbuurma.org/uncategorized/vic_info-draft-syllabus/)
 * Copy of Artifact: forthcoming
 * Creator: [Rachel Sagner Buurma](http://rachelsagnerbuurma.org/) (Swarthmore College)
 
 Victorian Literature and Victorian Informatics is a richly detailed English syllabus exploring "canonical Victorian literature through the lens of Victorian Information theory and knowledge organization practices." Buurma blends close, middle-distant, and distant reading techniques with an emphasis on digital methods for re-reading/re-making literary texts. With its variety of workshops, demonstrations, discussions, and readings, Buurma's syllabus is exemplary in incorporating fresh critical methods and interpretative tools into a more familiar and canonical reading list. Instructors experimenting with this model could readily incorporate related readings, tools, and workshops into a smaller unit within an existing course, but it is also easy to imagine developing a new one, organized along similar topical or thematic lines. The key innovation here is the integration of digital humanities methods and skill-building into a content-based course, rather than positioning praxis as something that stands alone, outside the core curriculum.
 
-### “The Wikiblitz: A Wikipedia Editing Assignment in a First Year Undergraduate Class”
+### [“The Wikiblitz: A Wikipedia Editing Assignment in a First Year Undergraduate Class”](http://writinghistory.trincoll.edu/crowdsourcing/graham-2012-spring/)
 ![screen shot](images/wikiblitz.jpg)
 
-* Source URL: [http://writinghistory.trincoll.edu/crowdsourcing/graham-2012-spring/]( http://writinghistory.trincoll.edu/crowdsourcing/graham-2012-spring/)
 * Copy of Artifact: forthcoming
 * Creator: [Shawn Graham](http://www.graeworks.net/) (Carleton University)
 
 Graham describes an in-class assignment designed to "explore how knowledge is created and represented on Wikipedia, by working to improve a single article." This assignment was situated in a course exploring historical materials on the Internet. Graham reflects on the overall course and the specifics of the Wikipedia assignment with a particular focus on preparing students to engage with and critique the tools available for writing history in our digital age. Graham's article is particularly useful in that it outlines how the assignment fit into the broader course, its expected and unexpected outcomes, and his rubric. It also shares student feedback. Graham details the work invested in preparing students for the 2-session assignment, which could smooth the process of adapting this idea for other courses.
 
-### “Writing on Clay”
+### [“Writing on Clay”](http://books.google.com/books?id=VWzgtZMJCwgC&pg=PA74)
 ![screen shot](images/writing-on-clay.jpg)
 
-* Source URL: [http://books.google.com/books?id=VWzgtZMJCwgC&pg=PA74](http://books.google.com/books?id=VWzgtZMJCwgC&pg=PA74)
 * Copy of Artifact: forthcoming
 * Creator: [Dennis E.  Baron](http://www.english.illinois.edu/-people-/faculty/debaron/) (University of Illinois)
 
