@@ -46,7 +46,7 @@ The keyword "hybrid" suggests a methodology for teachers to employ in constructi
 ### "A Million Blue Pages"
 ![screenshot](images/hybrid-million-blue-pages-screenshot.jpg)
 
-* Source URL: http://amillionbluepages.net/ 
+* Source URL: <http://amillionbluepages.net/>
 * Copy of Artifact: forthcoming
 * Creator: Zach Whalen (University of Mary Washington)
 
@@ -55,7 +55,7 @@ The keyword "hybrid" suggests a methodology for teachers to employ in constructi
 ### "A 12-week Assignment to Write a Wikipedia Article"
 ![screenshot](images/hybrid-wiki-site.jpg)
 
-* Source URL: http://outreach.wikimedia.org/wiki/Education/Syllabi
+* Source URL: <http://outreach.wikimedia.org/wiki/Education/Syllabi>
 * Copy of Artifact: forthcoming
 * Creator: Wikimedia Foundation
 
@@ -64,7 +64,7 @@ This assignment offers a guide to having students contribute to Wikipedia. Orien
 ### "Twitter vs. Zombies"
 ![screenshot](images/hybrid-tvsz-site.jpg)
 
-* Source URL: http://twittervszombies.com/
+* Source URL: <http://twittervszombies.com/>
 * Copy of Artifact: forthcoming
 * Creators: Pete Rorabaugh (Southern Polytechnic State University) and Jesse Stommel (University of Wisconsin-Madison)
 
@@ -73,7 +73,7 @@ This assignment offers a guide to having students contribute to Wikipedia. Orien
 ### "Occupy Class"
 ![screenshot](images/hybrid-occupy-site.jpg)
 
-* Source URL: http://occupyclass.org/
+* Source URL: <http://occupyclass.org/>
 * Copy of Artifact: forthcoming
 * Creator: Pete Rorabaugh (Southern Polytechnic State University)
 
@@ -82,7 +82,7 @@ This assignment offers a guide to having students contribute to Wikipedia. Orien
 ### "Note Tweeting"
 ![screenshot](images/hybrid-note-tweeting-site.jpg)
 
-* Source URL: http://chuckrybak.com/tweeting-class-discussions-and-notes
+* Source URL: <http://chuckrybak.com/tweeting-class-discussions-and-notes>
 * Copy of Artifact: forthcoming
 * Creator: Chuck Rybak (University of Wisconsin-Green Bay)
 
@@ -91,7 +91,7 @@ Chuck Rybak offers an excellent example of how students can use a tool like Twit
 ### "A Public Literary Twitter Role-Play"
 ![screenshot](images/hybrid-literary-roleplay-site.jpg)
 
-* Source URL: http://shelleysfrankenstein.wordpress.com/frankenstein-a-public-literary-twitter-role-play-on-twitter/
+* Source URL: <http://shelleysfrankenstein.wordpress.com/frankenstein-a-public-literary-twitter-role-play-on-twitter/>
 * Copy of Artifact: forthcoming
 * Creator: Petra Dierkes-Thrun (Stanford University)
 
@@ -100,7 +100,7 @@ Petra Dierkes-Thrun has run several iterations of the Public Literary Twitter Ro
 ### "Social Media Design and Build"
 ![screenshot](images/hybrid-social-media-design-screenshot.jpg)
 
-* Source URL: http://kathiiberens.com/teaching/sample-syllabi/design-build/
+* Source URL: <http://kathiiberens.com/teaching/sample-syllabi/design-build/>
 * Copy of Artifact: forthcoming
 * Creator: Kathi Inman Berens (USC Annenberg)
 
@@ -109,7 +109,7 @@ In her hybrid USC Annenberg course, Kathi Inman Berens works with students face-
 ### "Spine Poetry"
 ![screenshot](images/hybrid-spine-poetry-screenshot.jpg)
 
-* Source URL: http://spinepoetry.com/
+* Source URL: <http://spinepoetry.com/>
 * Copy of Artifact: forthcoming
 * Creator: Kathi Inman Berens (USC Annenberg), Lans Pacifico, Carrie Padian, Ken Schultz, Jesse Stommel (University of Wisconsin-Madison), Jessica Zisa
 
@@ -118,7 +118,7 @@ A hybrid learning environment deconstructs hierarchies, giving students a fuller
 ### "Modern and Contemporary American Poetry" 
 ![screenshot](images/hybrid-modpo-screenshot.jpg)
 
-* Source URL: https://www.coursera.org/course/modernpoetry
+* Source URL: <https://www.coursera.org/course/modernpoetry>
 * Copy of Artifact: forthcoming
 * Creator: Al Filreis (University of Pennsylvania)
 
@@ -127,7 +127,7 @@ A truly "Hybrid" Massive Open Online Course that Al Filreis began offering in 20
 ### "Guidelines for Public, Student Class Blogs: Ethics, Legalities, FERPA and More"
 ![screenshot](images/hybrid-FERPA-guidelines.jpg)
 
-* Source URL: http://www.hastac.org/blogs/cathy-davidson/2012/11/30/guidelines-public-student-class-blogs-ethics-legalities-ferpa-and-mo
+* Source URL: <http://www.hastac.org/blogs/cathy-davidson/2012/11/30/guidelines-public-student-class-blogs-ethics-legalities-ferpa-and-mo>
 * Copy of Artifact: forthcoming
 * Creator: Kevin Smith (Duke University)
 
