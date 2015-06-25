@@ -1,12 +1,12 @@
---- 
+---
 title: Digital Pedagogy in the Humanities
-subtitle: Concepts, Models, and Experiments 
+subtitle: Concepts, Models, and Experiments
 chapter: Sexuality
 URL: keywords/sexuality.md
-author: 
+author:
 - family: Lothian
   given: Alexis
-editor: 
+editor:
 - family: Sayers
   given: Jentery
 publisher: Modern Language Association
@@ -15,7 +15,7 @@ type: book
 
 # SEXUALITY (Draft)
 
-## Alexis Lothian 
+## Alexis Lothian
 University of Maryland College Park | [Website](http://www.queergeektheory.org/)
 
 ---
@@ -25,16 +25,16 @@ University of Maryland College Park | [Website](http://www.queergeektheory.org/)
 * draft version undergoing editorial review
 * draft version undergoing peer-to-peer review
 * published
- 
+
 ---
 
-## CURATORIAL STATEMENT 
+## CURATORIAL STATEMENT
 
 “Sexuality” is a slippery subject. On one hand, as part of the trifecta “race, gender, and sexuality,” or in “Gender and Sexuality Studies,” it stands for identities and communities defined by relationships and object choices that deviate from a heterosexual norm. On the other, it names the inchoate affects of desire itself: who and what we want or don't want, and why those wantings matter. As an academic subject, sexuality and its overdetermined referents make for frequent discomfort; the very idea of studying sexuality sounds risky to some. "Sexuality" does not appear in the title of the program in which I teach, (LGBT Studies, part of the Women's Studies department at the University of Maryland College Park), but my students still tell me that they field concerned questions from family and friends wondering why they would sign up for such a class. Working in one of the country's longest established LGBT Studies programmes (Lindemann), I feel these concerns less acutely than the faculty at University of South Carolina Upstate who had funding pulled by a conservative legislature after inviting a lesbian comedian to campus (Piepmeier), or the gay high school teacher whose classroom has been vandalized with homophobic abuse (Friend). Yet I still hear from students that career advisers have recommended they drop LGBTQ classes and activities from their resumes when applying for jobs.
 
-Taking the study of sexuality in culture seriously, especially when students are encountering it for the first time, means reorienting expectations about what legitimate topics for scholarly analysis and classroom discussion can be. Everyone has prior knowledge that has to be unlearned. In his curation of resources for the keyword Queer, Ed Chang explores how queer studies challenges presumptions about the digital and about pedagogy; to complement his collection, I have focused on resources that emphasize the encounters with individual and collective identities, histories, and cultures that studying sexuality requires. 
+Taking the study of sexuality in culture seriously, especially when students are encountering it for the first time, means reorienting expectations about what legitimate topics for scholarly analysis and classroom discussion can be. Everyone has prior knowledge that has to be unlearned. In his curation of resources for the keyword Queer, Ed Chang explores how queer studies challenges presumptions about the digital and about pedagogy; to complement his collection, I have focused on resources that emphasize the encounters with individual and collective identities, histories, and cultures that studying sexuality requires.
 
-Classes in gender and sexuality bring together students for whom the recognition of hard-won identities feels like a matter of life and death, along with those who think that their normative gender and heterosexual identifications mean that a class on sexuality will teach them much about others and little about themselves. Groups and identities clash; people take things personally; discussions leave the classroom and enter the political sphere. Sexuality is never a subject that can be discussed purely within the bounds of a classroom or an academic field. It is part of private and public life – and for students and teachers alike, digital practices are inseparable from our sexual acts and identities. A digital pedagogy of sexuality, then, must attend both to the ways that knowledge about sexuality is constantly shared informally in networked publics, and to the larger histories and contexts within which our current understandings of sex and gender identity, relationships and orientations, have developed along with our media landscapes. It must attend to the ways in which ideas about sexual politics and identities are proliferating wildly in the networks our students frequent, from the popularity of new identity formations and acronyms on Tumblr to the kinds of interaction encouraged by Grindr and Tinder. Such emergent formations are difficult to pin down in a collection that is intended to function as a long term pedagogical resource. 
+Classes in gender and sexuality bring together students for whom the recognition of hard-won identities feels like a matter of life and death, along with those who think that their normative gender and heterosexual identifications mean that a class on sexuality will teach them much about others and little about themselves. Groups and identities clash; people take things personally; discussions leave the classroom and enter the political sphere. Sexuality is never a subject that can be discussed purely within the bounds of a classroom or an academic field. It is part of private and public life – and for students and teachers alike, digital practices are inseparable from our sexual acts and identities. A digital pedagogy of sexuality, then, must attend both to the ways that knowledge about sexuality is constantly shared informally in networked publics, and to the larger histories and contexts within which our current understandings of sex and gender identity, relationships and orientations, have developed along with our media landscapes. It must attend to the ways in which ideas about sexual politics and identities are proliferating wildly in the networks our students frequent, from the popularity of new identity formations and acronyms on Tumblr to the kinds of interaction encouraged by Grindr and Tinder. Such emergent formations are difficult to pin down in a collection that is intended to function as a long term pedagogical resource.
 
 The set of artifacts gathered below aims to speak to the processes that are most useful when teaching around a moving target: that showcase the ways in which teachers can honor the multiple kinds of knowledge students bring to a class, and the ways that class members can work collectively to bring new knowledges into being together. Materials collected here include both teachers' materials and sources from the production of digital knowledge about sexuality outside of academic settings. Activist, historical, or community collections and works of creative media production sit alongside syllabi and assignments. The collection begins with two syllabi that suggest ways of organizing hybrid digital/in-person class structures around the particular needs of classes focused on sexuality as history, identity, and culture. Then two examples of assignments highlight ways that students can combine research with the knowledges and networks they bring in from outside the academy, at levels from introductory to graduate. Following these are four archives of extensive resources, from a range of academic and non-academic origins, which can be incorporated into class as assigned texts, origin points for student research, and examples of the way that knowledge about sexuality as history, politics, and identity circulates online. The last two items showcase digital cultural production that centers on sexuality, combining popular culture and new media art in various ways. In addition to subjects for discussion and analysis, the last examples in particular may usefully serve as exemplars for multimodal assignments in which students use creative means to explore sexuality studies.
 
@@ -44,7 +44,7 @@ The set of artifacts gathered below aims to speak to the processes that are most
 ![screenshot](images/lgbtStudies.tiff)
 
 * Source URL: http://lgbtqintro.queergeektheory.org/category/instructor-posts/
-* Creator: Alexis Lothian (University of Maryland College Park) 
+* Creator: Alexis Lothian (University of Maryland College Park)
 
 This is the website from my Fall 2014 200-level LGBT Studies class, whose digital pedagogy elements included an anonymous "ask" feature that gave students the opportunity to pose confidential questions at any time. The most successful digital element, though, turned out to be my use of Prezi in class. To highlight the class’s development of its own archive of shared knowledge, I would take notes directly into an online presentation I had created with images, topics of discussion, and so forth. The transcription of student comments makes them easier to unpack and contextualize, while separating their content from the person who has spoken them; it also increases accessibility. While this practice is not only useful for the study of sexuality, it proved especially well suited to situations where students are analyzing personal experiences, and it is a technique that could be adapted to classrooms of many levels and sizes.
 
@@ -68,7 +68,7 @@ This is one element of the collective work of the Selfie Researchers Network, a 
 ![screenshot](images/litFilmTools.tiff)
 
 * Source URL: https://queerlitfilm.wordpress.com/teaching-projects-and-tools/
-* Creator: Petra Dierkes-Thrun (Stanford University) 
+* Creator: Petra Dierkes-Thrun (Stanford University)
 
 This is an assignment from a mixed graduate and undergraduate class, cross listed in Comparative Literature and in Feminist, Gender, and Sexuality studies at Stanford. Groups of students were asked to create a “mini crash course … designed as a compact three-week syllabus package complete with texts, handouts, assignments, and visual or video excerpts.” Many chose aspects of sexuality studies that are underrepresented in both scholarly writing and in available online resources for teaching. A student-designed advanced four-week syllabus in trans of color studies is one of the best resources I have found. For graduate classes in particular, it is the examples of student-originated pedagogical rationales – included a suggested curriculum for a Gay-Straight Alliance in a high school – that will be especially useful. It is also an exemplary work of public scholarship, making the digital pedagogy of sexuality both a subject and a method.
 
@@ -78,7 +78,7 @@ This is an assignment from a mixed graduate and undergraduate class, cross liste
 * Source URL: http://outhistory.org/
 * Creators: Jonathan Ned Katz and John D’Emilio (University of Illinois Chicago), and Claire Potter (New School)
 
-Launched in 2008 by the historian Jonathan Ned Katz, OutHistory.org is one of the largest and longest-established online resources to address the history of sexuality and LGBTQ cultures. Committed to “active community participation in the discovery and creation of lesbian, gay, bisexual, and transgender history,” the site includes digitized publications, oral histories, and images, with extensive explanation and annotation. While its organization is not always intuitive, the site offers many pedagogical opportunities, allowing students to explore primary sources and also to engage the politics of historical interpretation and narrative framing: to what extent can we name a historical example of sexual dissidence or gender nonconformity by the names we use today? The site also encourages teachers to work with its curators to bring student research online, creating further archives as a form of digital pedagogy. 
+Launched in 2008 by the historian Jonathan Ned Katz, OutHistory.org is one of the largest and longest-established online resources to address the history of sexuality and LGBTQ cultures. Committed to “active community participation in the discovery and creation of lesbian, gay, bisexual, and transgender history,” the site includes digitized publications, oral histories, and images, with extensive explanation and annotation. While its organization is not always intuitive, the site offers many pedagogical opportunities, allowing students to explore primary sources and also to engage the politics of historical interpretation and narrative framing: to what extent can we name a historical example of sexual dissidence or gender nonconformity by the names we use today? The site also encourages teachers to work with its curators to bring student research online, creating further archives as a form of digital pedagogy.
 
 ### Queer Music History 101
 ![screenshot](images/history101.tiff)
@@ -94,7 +94,7 @@ This is a set of lesson plans available as web pages, audio files, or in streami
 * Source URL: http://www.asexuality.org/home/overview.html
 * Creator: Asexual Visibility and Education Network
 
-This is the online home of the Asexual Visibility and Education Network (AVEN), an organization of people who identify as asexual (defined by the AVEN as “someone who does not experience sexual attraction.” I have included it in this list because my undergraduate students have been fierce advocates for the inclusion of the emergent identity formation of asexuality in sexuality studies classes, where it has not as yet become commonplace. The asexual community is one that has come together largely through online networks (Chasin), and so it is especially well suited to a digital pedagogic approach. AVEN’s website includes a detailed FAQ describing the consensus definitions of asexuality to which members of the community have come, along with links to research, personal narratives, and other resources that can be used to explore conflicts and complexities around the terms of identification that have developed within the asexual community. 
+This is the online home of the Asexual Visibility and Education Network (AVEN), an organization of people who identify as asexual (defined by the AVEN as “someone who does not experience sexual attraction.” I have included it in this list because my undergraduate students have been fierce advocates for the inclusion of the emergent identity formation of asexuality in sexuality studies classes, where it has not as yet become commonplace. The asexual community is one that has come together largely through online networks (Chasin), and so it is especially well suited to a digital pedagogic approach. AVEN’s website includes a detailed FAQ describing the consensus definitions of asexuality to which members of the community have come, along with links to research, personal narratives, and other resources that can be used to explore conflicts and complexities around the terms of identification that have developed within the asexual community.
 
 ### Against Equality: Queer Challenges to the Politics of Inclusion
 ![screenshot](images/againstEquality.tiff)
@@ -120,7 +120,7 @@ This 2012 article, published in the open access journal Transformative Works and
 
 Combining a text-based game structure with video, music, spoken word, and dance, micha cardenas’s game uses Scalar to map the movement of a trans woman of color through a science fiction future. Highlighting the inseparability of sexuality and gender from disability, colonialism, race, and the environment with elliptical, player-driven storytelling, cardenas’s game offers a pedagogy, unbounded by the requirements of courses and classrooms, for ethical inhabitation of a poisoned, violent, yet still pleasure-filled world in which sexuality names one of many inseparable modes of connection.
 
-    “We cannot just split endlessly into smaller and smaller atoms, 
+    “We cannot just split endlessly into smaller and smaller atoms,
     more specific groupings,
     tiny electron clouds,
     because that would only lead to individualism,
@@ -128,7 +128,7 @@ Combining a text-based game structure with video, music, spoken word, and dance,
     to be able to survive the tearing winds of these worlds,
     and travel across the stars together,
     more important than anything else:
-    connected, connecting.” 
+    connected, connecting.”
 
 ## RELATED MATERIALS
 
