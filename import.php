@@ -188,7 +188,7 @@ function parse_artifact_nodes( DOMNode $parent, &$posts ) {
                 continue;
             }
 
-            if ( in_array( $node->parentNode->nodeName, ['h2', 'h3'] ) ) {
+            if ( in_array( $node->parentNode->nodeName, ['h2', 'h3', 'h4'] ) ) {
                 if ( 1 === preg_match( '/part [\d]:/', strtolower( $node->nodeValue ) ) ) {
                     // these are section headers, not artifacts
                     continue;
