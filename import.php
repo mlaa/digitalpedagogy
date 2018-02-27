@@ -32,7 +32,7 @@ foreach ( $dir as $fileinfo ) {
     $keyword_post = [];
     parse_keyword_nodes( $dd, $keyword_post );
     WP_CLI::log( $fileinfo->getFilename() . ": inserting keyword '${keyword_post['post_title']}'" );
-    @fputcsv( $keywords_csv, $keyword_post );
+    @fputcsv( $keywords_csv, prepare_for_csv( $keyword_post ) );
     $keyword_post_id = wp_insert_post( $keyword_post );
 
     // import artifacts
@@ -40,7 +40,7 @@ foreach ( $dir as $fileinfo ) {
     parse_artifact_nodes( $dd, $artifact_posts );
     foreach ( $artifact_posts as $artifact_post ) {
         WP_CLI::log( $fileinfo->getFilename() . ": inserting artifact '${artifact_post['post_title']}'" );
-        @fputcsv( $artifacts_csv, $artifact_post );
+        @fputcsv( $artifacts_csv, prepare_for_csv( $artifact_post ) );
         $artifact_post_id = wp_insert_post( $artifact_post );
     }
 }
@@ -199,7 +199,13 @@ function parse_artifact_nodes( DOMNode $parent, &$posts ) {
                 continue;
             }
 
-            $exp = explode( ':', $node->nodeValue );
+            // fix urls
+            if ( false !== strpos( $node->nodeValue, 'http' ) ) {
+                $posts[ count( $posts ) - 1 ]['meta_input']['source url'] = $node->nodeValue;
+                continue;
+            } else {
+                $exp = explode( ':', $node->nodeValue );
+            }
 
             if ( 2 > count( $exp ) ) {
                 // this isn't a key/value pair, assume normal content.
@@ -226,16 +232,26 @@ function parse_artifact_nodes( DOMNode $parent, &$posts ) {
             $label = strtolower( $exp[0] );
             $value = trim( $exp[1] );
 
+            if ( empty( $value ) ) {
+                $exp = explode( ':', $node->parentNode->nodeValue );
+                $value = trim( $exp[1] );
+            }
+
             switch ( $label ) {
                 case "artifact type":
-                    $posts[ count( $posts ) - 1 ]['meta_input'][ $label ] = $value;
                     $posts[ count( $posts ) - 1 ]['tags_input'][] = strtolower( $value );
-                case "source url":
                 case "artifact permissions":
                 case "copy of the artifact":
                 case "creator and affiliation":
+                    $posts[ count( $posts ) - 1 ]['meta_input'][ $label ] = $value;
                     break;
             }
         }
     }
+}
+
+function prepare_for_csv(array $post) {
+    $post['meta_input'] = print_r( $post['meta_input'], true );
+    $post['tags_input'] = print_r( $post['tags_input'], true );
+    return $post;
 }
