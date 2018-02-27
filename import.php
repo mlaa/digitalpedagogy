@@ -16,6 +16,9 @@ $not_keywords = [
     '!template-skeleton.md',
 ];
 
+$keyword_count = 0;
+$artifact_count = 0;
+
 foreach ( $dir as $fileinfo ) {
     if (
         $fileinfo->isDot() ||
@@ -31,19 +34,23 @@ foreach ( $dir as $fileinfo ) {
     // import keyword
     $keyword_post = [];
     parse_keyword_nodes( $dd, $keyword_post );
-    WP_CLI::log( $fileinfo->getFilename() . ": inserting keyword '${keyword_post['post_title']}'" );
     @fputcsv( $keywords_csv, prepare_for_csv( $keyword_post ) );
     $keyword_post_id = wp_insert_post( $keyword_post );
+    WP_CLI::log( $fileinfo->getFilename() . ": keyword '${keyword_post['post_title']}' ($keyword_post_id)" );
+    $keyword_count++;
 
     // import artifacts
     $artifact_posts = [];
     parse_artifact_nodes( $dd, $artifact_posts );
     foreach ( $artifact_posts as $artifact_post ) {
-        WP_CLI::log( $fileinfo->getFilename() . ": inserting artifact '${artifact_post['post_title']}'" );
         @fputcsv( $artifacts_csv, prepare_for_csv( $artifact_post ) );
         $artifact_post_id = wp_insert_post( $artifact_post );
+        WP_CLI::log( $fileinfo->getFilename() . ": artifact '${artifact_post['post_title']}' ($artifact_post_id)" );
+        $artifact_count++;
     }
 }
+
+WP_CLI::success( "imported $keyword_count keywords & $artifact_count artifacts" );
 
 function parse_keyword_nodes( DOMNode $parent, &$post ) {
     if ( ! isset( $post['post_title'] ) && isset( $parent->getElementsByTagName('h1')[0] ) ) {
