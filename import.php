@@ -9,8 +9,19 @@ $dir = new DirectoryIterator( 'keywords' );
 $keywords_csv = fopen( 'keyword_posts.csv', 'w' );
 $artifacts_csv = fopen( 'artifact_posts.csv', 'w' );
 
+$not_keywords = [
+    '.DS_Store',
+    'blueBox.md',
+    '!template.md',
+    '!template-skeleton.md',
+];
+
 foreach ( $dir as $fileinfo ) {
-    if ( $fileinfo->isDot() ) {
+    if (
+        $fileinfo->isDot() ||
+        in_array( $fileinfo->getFilename(), $not_keywords ) ||
+        ( isset( $args[0] ) && false === strpos( $fileinfo->getFilename(), $args[0] ) ) // optional filter for debugging
+    ) {
         continue;
     }
 
@@ -20,6 +31,7 @@ foreach ( $dir as $fileinfo ) {
     // import keyword
     $keyword_post = [];
     parse_keyword_nodes( $dd, $keyword_post );
+    WP_CLI::log( $fileinfo->getFilename() . ": inserting keyword '${keyword_post['post_title']}'" );
     @fputcsv( $keywords_csv, $keyword_post );
     $keyword_post_id = wp_insert_post( $keyword_post );
 
@@ -27,14 +39,25 @@ foreach ( $dir as $fileinfo ) {
     $artifact_posts = [];
     parse_artifact_nodes( $dd, $artifact_posts );
     foreach ( $artifact_posts as $artifact_post ) {
+        WP_CLI::log( $fileinfo->getFilename() . ": inserting artifact '${artifact_post['post_title']}'" );
         @fputcsv( $artifacts_csv, $artifact_post );
         $artifact_post_id = wp_insert_post( $artifact_post );
     }
 }
 
 function parse_keyword_nodes( DOMNode $parent, &$post ) {
-    $post['post_status'] = 'publish';
-    $post['post_author'] = 5488; // TODO
+    if ( ! isset( $post['post_title'] ) && isset( $parent->getElementsByTagName('h1')[0] ) ) {
+        $post['post_title'] = ucfirst( strtolower( $parent->getElementsByTagName('h1')[0]->nodeValue ) );
+    }
+    if ( ! isset( $post['post_status'] ) ) {
+        $post['post_status'] = 'publish';
+    }
+    if ( ! isset( $post['post_author'] ) ) {
+        $post['post_author'] = 5488; // TODO
+    }
+    if ( ! isset( $post['post_type'] ) ) {
+        $post['post_type'] = 'digiped_keyword';
+    }
 
     foreach ( $parent->childNodes as $node ) {
         if( $node->hasChildNodes() ) {
@@ -79,7 +102,9 @@ function parse_keyword_nodes( DOMNode $parent, &$post ) {
 
                 // title
                 case 'chapter':
-                    $post['post_title'] = $value;
+                    if ( ! isset( $post['post_title'] ) ) {
+                        $post['post_title'] = $value;
+                    }
                     break;
 
                 // tags
@@ -156,11 +181,16 @@ function parse_artifact_nodes( DOMNode $parent, &$posts ) {
                 continue;
             }
 
-            // an artifact!
-            if ( 'h2' === $node->parentNode->nodeName ) {
+            if ( in_array( $node->parentNode->nodeName, ['h2', 'h3'] ) ) {
+                if ( 1 === preg_match( '/part [\d]:/', strtolower( $node->nodeValue ) ) ) {
+                    // these are section headers, not artifacts
+                    continue;
+                }
+
+                // an artifact!
                 $posts['_found_artifacts']++;
                 $posts[ count( $posts ) ] = [
-                    'post_title' => $node->nodeValue,
+                    'post_title' => str_replace( '"', '', str_replace( 'â', '', $node->nodeValue ) ),
                     'post_status' => 'publish',
                     'post_type' => 'digiped_artifact',
                     'post_author' => 5488, // TODO
