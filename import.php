@@ -6,8 +6,8 @@ $pd = new Parsedown;
 $dd = new DOMDocument;
 $dir = new DirectoryIterator( 'keywords' );
 
-$keywords_csv = fopen( 'keyword_posts.csv', 'w' );
-$artifacts_csv = fopen( 'artifact_posts.csv', 'w' );
+$output_file = fopen( 'inserted_posts.json', 'w' );
+$output = [];
 
 $not_keywords = [
     '.DS_Store',
@@ -18,6 +18,8 @@ $not_keywords = [
 
 $keyword_count = 0;
 $artifact_count = 0;
+
+global $keyword_post;
 
 foreach ( $dir as $fileinfo ) {
     if (
@@ -34,21 +36,28 @@ foreach ( $dir as $fileinfo ) {
     // import keyword
     $keyword_post = [];
     parse_keyword_nodes( $dd, $keyword_post );
-    @fputcsv( $keywords_csv, prepare_for_csv( $keyword_post ) );
-    $keyword_post_id = wp_insert_post( $keyword_post );
-    WP_CLI::log( $fileinfo->getFilename() . ": keyword '${keyword_post['post_title']}' ($keyword_post_id)" );
     $keyword_count++;
+    $keyword_post_id = wp_insert_post( $keyword_post );
+    $keyword_post['ID'] = $keyword_post_id;
+    WP_CLI::log( $fileinfo->getFilename() . ": keyword '${keyword_post['post_title']}' ($keyword_post_id)" );
 
     // import artifacts
     $artifact_posts = [];
     parse_artifact_nodes( $dd, $artifact_posts );
     foreach ( $artifact_posts as $artifact_post ) {
-        @fputcsv( $artifacts_csv, prepare_for_csv( $artifact_post ) );
-        $artifact_post_id = wp_insert_post( $artifact_post );
-        WP_CLI::log( $fileinfo->getFilename() . ": artifact '${artifact_post['post_title']}' ($artifact_post_id)" );
         $artifact_count++;
+        $artifact_post_id = wp_insert_post( $artifact_post );
+        $artifact_post['ID'] = $artifact_post_id;
+        WP_CLI::log( $fileinfo->getFilename() . ": artifact '${artifact_post['post_title']}' ($artifact_post_id)" );
     }
+
+    $output[] = [
+        $keyword_post,
+        $artifact_posts,
+    ];
 }
+
+fwrite( $output_file, json_encode( $output ) );
 
 WP_CLI::success( "imported $keyword_count keywords & $artifact_count artifacts" );
 
@@ -154,6 +163,8 @@ function parse_keyword_nodes( DOMNode $parent, &$post ) {
 }
 
 function parse_artifact_nodes( DOMNode $parent, &$posts ) {
+    global $keyword_post;
+
     // if we see any of these headers, we're done with artifacts in this keyword
     $breakers = [
         'related materials',
@@ -201,6 +212,10 @@ function parse_artifact_nodes( DOMNode $parent, &$posts ) {
                     'post_status' => 'publish',
                     'post_type' => 'digiped_artifact',
                     'post_author' => 5488, // TODO
+                    'post_parent' => $keyword_post['ID'],
+                    'meta_input' => [
+                        'keyword' => $keyword_post['post_title'],
+                    ],
                     'tags_input' => [],
                 ];
                 continue;
@@ -255,10 +270,4 @@ function parse_artifact_nodes( DOMNode $parent, &$posts ) {
             }
         }
     }
-}
-
-function prepare_for_csv(array $post) {
-    $post['meta_input'] = print_r( $post['meta_input'], true );
-    $post['tags_input'] = print_r( $post['tags_input'], true );
-    return $post;
 }
