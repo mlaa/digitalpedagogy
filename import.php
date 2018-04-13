@@ -68,9 +68,6 @@ function parse_keyword_nodes( DOMNode $parent, &$post ) {
     if ( ! isset( $post['post_status'] ) ) {
         $post['post_status'] = 'publish';
     }
-    if ( ! isset( $post['post_author'] ) ) {
-        $post['post_author'] = 5488; // TODO
-    }
     if ( ! isset( $post['post_type'] ) ) {
         $post['post_type'] = 'digiped_keyword';
     }
@@ -81,6 +78,9 @@ function parse_keyword_nodes( DOMNode $parent, &$post ) {
         } else {
             if ( in_array( trim( strtolower( $node->nodeValue ) ), [ 'curated artifacts', 'reflection' ] ) ) {
                 // done with this keyword, on to artifacts
+                if ( ! isset( $post['post_author'] ) ) {
+                    $post['post_author'] = 0;
+                }
                 break;
             }
 
@@ -155,6 +155,11 @@ function parse_keyword_nodes( DOMNode $parent, &$post ) {
                     }
                     if ( isset( $post['meta_input']['author'] ) ) {
                         $post['meta_input']['author'] = trim( $value . ' ' . $post['meta_input']['author'] );
+
+                        // We have a complete author name, now get the ID.
+                        if ( 'given' === $label && empty( $post['post_author'] ) ) {
+                            $post['post_author'] = get_author_id( $post['meta_input']['author'] );
+                        }
                     }
                     break;
             }
@@ -211,7 +216,7 @@ function parse_artifact_nodes( DOMNode $parent, &$posts ) {
                     'post_title' => str_replace( '"', '', str_replace( 'â', '', $node->nodeValue ) ),
                     'post_status' => 'publish',
                     'post_type' => 'digiped_artifact',
-                    'post_author' => 5488, // TODO
+                    'post_author' => $keyword_post['post_author'],
                     'post_parent' => $keyword_post['ID'],
                     'meta_input' => [
                         'keyword' => $keyword_post['post_title'],
@@ -270,4 +275,24 @@ function parse_artifact_nodes( DOMNode $parent, &$posts ) {
             }
         }
     }
+}
+
+function get_author_id( string $name ) {
+    $result = bp_core_get_users( [
+        'search_terms' => $name
+    ] );
+
+    foreach ( $result['users'] as $user ) {
+        if ( $name === $user->display_name ) {
+            return $user->ID;
+        }
+    }
+
+    // search matched, but not exactly. assume first is good.
+    if ( 0 < $result['total'] ) {
+        return $result['users'][0]->ID;
+    }
+
+    // Fallback...who should this be?
+    return 1;
 }
